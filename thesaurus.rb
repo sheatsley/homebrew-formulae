@@ -19,11 +19,6 @@ class Thesaurus < Formula
       sha256 "84ab92ed1c4d4f16916e05906b6b75a6c0fb5db821cc65e70cbd64a3e2a5eaae"
     end
 
-    resource "cli-thesaurus" do
-      url "https://files.pythonhosted.org/packages/51/e7/d910efc62cf83401e095232fc451445456add2468a42ed354636d57daf03/cli-thesaurus-1.0.0b5.tar.gz"
-      sha256 "d27f2f82b3238859ebd3c6f23ab04166902471af5d3e96484b4053ab418be4e9"
-    end
-
     resource "idna" do
       url "https://files.pythonhosted.org/packages/cb/19/57503b5de719ee45e83472f339f617b0c01ad75cba44aba1e4c97c2b0abd/idna-2.9.tar.gz"
       sha256 "7588d1c14ae4c77d74036e8c22ff447b26d0fde8f007354fd48a7814db15b7cb"
