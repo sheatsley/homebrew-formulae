@@ -2,7 +2,7 @@ class Thesaurus < Formula
     include Language::Python::Virtualenv
     desc "A command-line interface thesaurus"
     homepage "https://github.com/sheatsley/thesaurus"
-    url "git@github.org:sheatsley/thesaurus.git", :using => :git
+    url "https://github.com/sheatsley/thesaurus"
     version "1.0.b5"
     
     resource "requests" do
