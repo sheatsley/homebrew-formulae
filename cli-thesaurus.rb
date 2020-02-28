@@ -1,4 +1,4 @@
-class Thesaurus < Formula
+class CliThesaurus < Formula
     include Language::Python::Virtualenv
     desc "A command-line interface thesaurus"
     homepage "https://github.com/sheatsley/thesaurus"
