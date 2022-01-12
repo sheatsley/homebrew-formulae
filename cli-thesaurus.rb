@@ -4,11 +4,11 @@ class CliThesaurus < Formula
     homepage "https://github.com/sheatsley/thesaurus"
     url "https://files.pythonhosted.org/packages/51/e7/d910efc62cf83401e095232fc451445456add2468a42ed354636d57daf03/cli-thesaurus-1.0.0b5.tar.gz"
     sha256 "d27f2f82b3238859ebd3c6f23ab04166902471af5d3e96484b4053ab418be4e9"
+    license "BSD-3-Clause"
     version "1.0.b5"
 
-    bottle :unneeded
     depends_on "python3"
-    
+
     resource "certifi" do
       url "https://files.pythonhosted.org/packages/41/bf/9d214a5af07debc6acf7f3f257265618f1db242a3f8e49a9b516f24523a6/certifi-2019.11.28.tar.gz"
       sha256 "25b64c7da4cd7479594d035c08c2d809eb4aab3a26e5a990ea98cc450c320f1f"
