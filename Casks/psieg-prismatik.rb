@@ -1,4 +1,4 @@
-cask "prismatik" do
+cask "psieg-prismatik" do
     version "5.11.2.31"
     sha256 "2b469afe1884363abf98429f906bd4c1c95ab9581643837e65f02d1a255d18da"
 
