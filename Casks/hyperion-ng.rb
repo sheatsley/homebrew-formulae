@@ -1,6 +1,6 @@
 cask "hyperion-ng" do
     version "2.0.16"
-    sha256 "34218afa326d72a90f67c1fa76fe77cc2710a55f99aabce66e5db606ee8ab365"
+    sha256 "9cc530d5772570bb41ad8a3e2b553f211f373a616a731189192910d33effa6fc"
 
     url "https://github.com/hyperion-project/hyperion.ng/releases/download/#{version}/Hyperion-#{version}-macOS-x64.dmg",
         verified: "github.com/hyperion-project/hyperion.ng/"
